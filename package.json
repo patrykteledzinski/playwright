@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/patrykteledzinski/playwright#readme",
   "devDependencies": {
-    "@playwright/test": "^1.26.1"
+    "@playwright/test": "^1.30.0"
   }
 }
